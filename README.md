@@ -1,0 +1,3 @@
+# JDBC-Muestro-BaseDeDatos-Sencillo
+
+-Configurar POM tal cual viene ahi...
